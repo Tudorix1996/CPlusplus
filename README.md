@@ -1,1 +1,1 @@
-My first C++ Project ( application)
+My first C++ app
